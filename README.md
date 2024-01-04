@@ -15,14 +15,14 @@ The Bank Management System is a console-based application that allows users to p
 
   ## Screenshots
 
-![Screenshot 1](https://drive.google.com/file/d/1pRjE7JoIM5Et8mUvz86tZFFfTLVfcSD-/view?usp=sharing)
+![https://drive.google.com/file/d/1pRjE7JoIM5Et8mUvz86tZFFfTLVfcSD-/view?usp=drive_link](https://drive.google.com/file/d/1pRjE7JoIM5Et8mUvz86tZFFfTLVfcSD-/view?usp=drive_link)
 
 
-![Screenshot 2](https://drive.google.com/file/d/137_xYptyNhgxL8ghaslJpFEOSPG4FfcW/view?usp=sharing)
+![https://drive.google.com/file/d/137_xYptyNhgxL8ghaslJpFEOSPG4FfcW/view?usp=drive_link](https://drive.google.com/file/d/137_xYptyNhgxL8ghaslJpFEOSPG4FfcW/view?usp=drive_link)
 
 
 
-![Screenshot 3](https://drive.google.com/file/d/1sOLPXvliwLGlvSWjngtTYTyQq6L9YSr7/view?usp=sharing)
+![https://drive.google.com/file/d/1sOLPXvliwLGlvSWjngtTYTyQq6L9YSr7/view?usp=drive_link](https://drive.google.com/file/d/1sOLPXvliwLGlvSWjngtTYTyQq6L9YSr7/view?usp=drive_link)
 
 
 ## Requirements
