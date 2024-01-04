@@ -2,6 +2,12 @@
 
 This repository contains a Bank Management System implemented in Java using Eclipse.
 
+
+## Home Page:
+
+<img width="700px" src="https://drive.google.com/uc?id=1aGbjjIc7ir1wYRF6eCszbemOASQr8jyZ" alt="Description of Image">
+
+
 ## Overview
 
 The Bank Management System is a console-based application that allows users to perform various banking operations. Users can create accounts, deposit and withdraw funds, transfer money between accounts, and check their balances.
